@@ -1,0 +1,15 @@
+/**index.wxss**/
+page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.scrollarea {
+  flex: 1;
+  overflow-y: hidden;
+}
+
+#cover_picture {
+  width: 740rpx;
+  margin: 5rpx;
+}

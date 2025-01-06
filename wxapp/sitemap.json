@@ -1,0 +1,7 @@
+{
+  "desc": "合成器，计算音乐，AI 乐器。",
+  "rules": [{
+  "action": "allow",
+  "page": "*"
+  }]
+}

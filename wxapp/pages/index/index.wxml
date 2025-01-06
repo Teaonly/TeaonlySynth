@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<image id="cover_picture" src="../../assets/cover.png"></image>
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="container">
+    <button bindtap="onbegin" > 从正弦波开始 </button>
+  </view>
+</scroll-view>
